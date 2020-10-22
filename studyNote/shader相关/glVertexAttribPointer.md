@@ -1,4 +1,4 @@
-### glVertexAttribPointer(0, 4, GL_FLOAT, GL_FALSE, 0, 0);
+### glVertexAttribPointer(0, 4, GL_FLOAT, GL_FALSE, 0, 0);链接顶点属性
 
 - 第一个参数指定从索引0开始取数据，与顶点着色器中layout(location=0)对应；
 - 第二个参数指定顶点属性的大小；

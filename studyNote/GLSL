@@ -1,7 +1,0 @@
-  glfwPollEvents();
-  
- swapping buffers 双缓冲
-	glfwSwapBuffers(window);
-	可以设置缓存刷新时间：glfwSwapInterval(1);
-处理事件存在有两个函数：
-glfwPollEvents()和glfwWaitEvents();,前者会立即处理已经到位的事件，后者等
